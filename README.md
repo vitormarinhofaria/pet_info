@@ -1,16 +1,9 @@
 # pet_info
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A simple App for tracking the ammount of food your pets had for the day.
+Currently on a very early stage, missing big features like data persistance.
+<div style="display: flex; flex-direction: row">
+  <img src="https://github.com/vitormarinhofaria/pet_info/blob/836ab82a083282609754b8fc0eaae016b6807459/flutter_01.png" alt="Main page" width="200"/>
+  <img src="https://github.com/vitormarinhofaria/pet_info/blob/836ab82a083282609754b8fc0eaae016b6807459/flutter_02.png" alt="Adding a new pet" width="200"/>
+  <img src="https://github.com/vitormarinhofaria/pet_info/blob/836ab82a083282609754b8fc0eaae016b6807459/flutter_03.png" alt="'Feeding' the pet" width="200"/>
+</div>
